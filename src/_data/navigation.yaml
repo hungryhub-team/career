@@ -1,3 +1,7 @@
 items:
-  - text: Menu One
+  - text: Culture
+    url: "/posts/culture"
+  - text: How We Hire
+    url: "#"
+  - text: Jobs
     url: "#"
