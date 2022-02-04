@@ -1,7 +1,7 @@
 items:
   - text: Culture
-    url: "/posts/culture"
+    url: /posts/culture
   - text: How We Hire
-    url: "#"
+    url: /posts/how-we-hire
   - text: Jobs
     url: "#"
